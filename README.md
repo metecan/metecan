@@ -1,12 +1,12 @@
-
-
-<center><img alt="The IT Crowd" src="https://media1.tenor.com/images/84182aa4ee634dd70acb8daf9352807c/tenor.gif?itemid=4711551" width="40%"/></center>
+<div style="display:flex; justify-content:center">
+<img alt="The IT Crowd" src="https://media1.tenor.com/images/84182aa4ee634dd70acb8daf9352807c/tenor.gif?itemid=4711551" width="40%"/>
+</div>
 <br />
 <br />
 <br />
-<p align="center"><font size="6"> 👋 Hey, I am Metecan KAPLAN!</font></p>
+<p align="center" style="font-size:3rem;"> 👋 Hey, I am Metecan KAPLAN!</p>
 <br />
-<p align="center"><font size="6">I'm a <b>designer</b> and <b>full-stack web developer</b> based in Turkey. 🇹🇷 <br/> I have 7+ years experience in programming 🥰</font>
+<p align="center" style="font-size:2.4rem;">I'm a <b>designer</b> and <b>full-stack web developer</b> based in Turkey. 🇹🇷 <br/> I have 7+ years experience in programming 🥰
 </p>
 
 
