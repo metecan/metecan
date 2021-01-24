@@ -6,7 +6,6 @@
 <br />
 
 ## <p align="center">👋 Hey, I am Metecan KAPLAN!</p>
-<br />
 
 ## <p align="center">I'm a designer andfull-stack web developer based in Turkey. 🇹🇷 <br/> I have 7+ years experience in programming 🥰
 </p>
