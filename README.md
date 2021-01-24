@@ -5,10 +5,10 @@
 <br />
 <br />
 
-## <p align="center" style="font-size:3rem !important;">👋 Hey, I am Metecan KAPLAN!</p>
+## <p align="center">👋 Hey, I am Metecan KAPLAN!</p>
 <br />
 
-## <p align="center" style="font-size:2.4rem !important;">I'm a <b>designer</b> and <b>full-stack web developer</b> based in Turkey. 🇹🇷 <br/> I have 7+ years experience in programming 🥰
+## <p align="center">I'm a designer andfull-stack web developer based in Turkey. 🇹🇷 <br/> I have 7+ years experience in programming 🥰
 </p>
 
 
